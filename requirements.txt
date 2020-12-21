@@ -1,0 +1,6 @@
+Flask==1.1.2
+Flask-Bcrypt==0.7.1
+Flask-Migrate==2.5.3
+Flask-RESTful==0.3.8
+Flask-SQLAlchemy==2.4.4
+jwt==1.1.0
