@@ -10,7 +10,7 @@ It is part of the school team project.
 Enter the config.py and run:
 ```
 $ pip install -r requirements.txt
-$ python main.py
+$ python app.py
 ```
 
 Tested in Python 3.7.*.
